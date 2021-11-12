@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": "10"
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": "15"
     },
     {
       "id": 3,
@@ -46,7 +46,19 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 1
+      "likes": "4"
+    },
+    {
+      "name": "Bullseye",
+      "image": "https://static.wikia.nocookie.net/pixar/images/1/11/Ddhg6tl-5c1bedb5-645a-41d9-86ed-08ba6eb1daa8.png/revision/latest/top-crop/width/360/height/360?cb=20210203004509",
+      "likes": "4",
+      "id": 9
+    },
+    {
+      "name": "Jesse",
+      "image": "https://www.pngall.com/wp-content/uploads/5/Jessie-Toy-Story-PNG-Clipart.png",
+      "likes": "6",
+      "id": 10
     }
   ]
 }
